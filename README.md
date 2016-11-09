@@ -2,7 +2,7 @@
 
 ###Contacts
 
-Email: aleksandrovich.ira@gmail.com  
+Email: aleksandrovich.ira@gmail.co  
 GitHub: [ialeksandrovich](https://github.com/ialeksandrovich)  
 Codewars: [Irin_a](https://www.codewars.com/users/Irin_a)
 
